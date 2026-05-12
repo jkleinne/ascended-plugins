@@ -34,5 +34,34 @@
     "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.1/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": 1778574208
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended Dagobert",
+    "InternalName": "ascended-dagobert",
+    "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Currently tracks upstream with no fork-specific behavior. If you don't specifically need this fork, install upstream Dagobert instead.",
+    "Punchline": "Personal fork of Dagobert.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "Utility"
+    ],
+    "CategoryTags": null,
+    "LoadRequiredState": null,
+    "LoadSync": null,
+    "CanUnloadAsync": null,
+    "LoadPriority": null,
+    "IsTestingExclusive": null,
+    "IconUrl": "",
+    "AcceptsFeedback": null,
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1778574774
   }
 ]
