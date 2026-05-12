@@ -16,3 +16,4 @@ All `ascended-*` plugins listed below become available in Dalamud's plugin insta
 
 - **Ascended Rotation Solver Reborn** — Personal fork of RotationSolverReborn that adds PvPSmart, a scoring-based PvP target selector. Source: [ascended-rotationsolverreborn](https://github.com/jkleinne/ascended-rotationsolverreborn)
 - **Ascended Dagobert** — Personal fork of Dagobert, a Dalamud plugin that adjusts your market board prices to 1 gil below the cheapest listing. Source: [ascended-dagobert](https://github.com/jkleinne/ascended-dagobert)
+- **Ascended ezWondrousTails** — Personal fork of EzWondrousTails, a Dalamud plugin that shows Wondrous Tails row probabilities, exact shuffle averages, and shuffle advice. Source: [ascended-EzWondrousTails](https://github.com/jkleinne/ascended-EzWondrousTails)
