@@ -39,7 +39,7 @@
     "Author": "jkleinne",
     "Name": "Ascended Dagobert",
     "InternalName": "ascended-dagobert",
-    "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Currently tracks upstream with no fork-specific behavior. If you don't specifically need this fork, install upstream Dagobert instead.",
+    "Description": "Personal fork of Dagobert, the automatic market board undercut plugin. Adds bait listing protection so a 1-unit decoy at 5 gil can't drag your retainer prices to the floor while real stacks sit at 1.2k. If you don't need that, install upstream Dagobert instead.",
     "Punchline": "Personal fork of Dagobert.",
     "RepoUrl": "https://github.com/jkleinne/ascended-dagobert",
     "ApplicableVersion": "any",
@@ -58,12 +58,12 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.0.4",
-    "TestingAssemblyVersion": "1.0.0.4",
-    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.4/latest.zip",
+    "AssemblyVersion": "1.0.0.5",
+    "TestingAssemblyVersion": "1.0.0.5",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.5/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1778582308
+    "LastUpdate": 1778582969
   }
 ]
