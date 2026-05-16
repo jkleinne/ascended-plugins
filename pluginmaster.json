@@ -27,13 +27,13 @@
     "IsTestingExclusive": false,
     "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-rotationsolverreborn/main/Images/Logo.png",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.0.20",
-    "TestingAssemblyVersion": "1.0.0.20",
-    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.20/latest.zip",
-    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.20/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.20/latest.zip",
+    "AssemblyVersion": "1.0.0.21",
+    "TestingAssemblyVersion": "1.0.0.21",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.21/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.21/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-rotationsolverreborn/releases/download/1.0.0.21/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1778886723
+    "LastUpdate": 1778890854
   },
   {
     "Author": "jkleinne",
