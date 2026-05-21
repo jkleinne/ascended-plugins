@@ -98,5 +98,36 @@
     "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.1.0/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": 1778666897
+  },
+  {
+    "Author": "Ice",
+    "Name": "Ice's Cosmic Exploration",
+    "InternalName": "ICE",
+    "AssemblyVersion": "1.0.0.0",
+    "TestingAssemblyVersion": "1.0.0.0",
+    "Description": "A little helper to go gather your heart out.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/jkleinne/ascended-Ices-Cosmic-Exploration",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-Ices-Cosmic-Exploration/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-Ices-Cosmic-Exploration/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-Ices-Cosmic-Exploration/releases/download/1.0.0.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1779375437,
+    "Punchline": "The gathering companion that we all needed.",
+    "Tags": [
+      "Gatherers"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "",
+    "AcceptsFeedback": true
   }
 ]
