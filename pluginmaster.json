@@ -92,12 +92,12 @@
     "IconUrl": "https://raw.githubusercontent.com/jkleinne/ascended-EzWondrousTails/master/res/icon.png",
     "AcceptsFeedback": true,
     "AssemblyVersion": "1.3.1.0",
-    "TestingAssemblyVersion": "1.3.1.0",
+    "TestingAssemblyVersion": "1.3.2.0",
     "DownloadLinkInstall": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/testing/1.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-EzWondrousTails/releases/download/1.3.1/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1780849476
+    "LastUpdate": 1780907495
   },
   {
     "Author": "jkleinne",
