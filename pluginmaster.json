@@ -129,5 +129,40 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "AcceptsFeedback": true
+  },
+  {
+    "Author": "jkleinne",
+    "Name": "Ascended Ledger",
+    "InternalName": "ascended-ledger",
+    "Description": "Market and retainer-sales intelligence for FFXIV. Reads your own retainer listings and completed sales from the game client and pairs them with board-wide market context (listings, sales history, velocity) from the Universalis API.",
+    "Punchline": "Market and retainer-sales intelligence.",
+    "RepoUrl": "https://github.com/jkleinne/ascended-ledger",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "Tags": [
+      "market",
+      "marketboard",
+      "retainer",
+      "sales",
+      "universalis"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IsTestingExclusive": false,
+    "IconUrl": "",
+    "AcceptsFeedback": true,
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-ledger/releases/download/0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-ledger/releases/download/0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-ledger/releases/download/0.1.0/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdate": 1781179999
   }
 ]
