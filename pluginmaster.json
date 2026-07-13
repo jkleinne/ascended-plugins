@@ -58,13 +58,13 @@
     "IsTestingExclusive": false,
     "IconUrl": "",
     "AcceptsFeedback": true,
-    "AssemblyVersion": "1.0.0.22",
-    "TestingAssemblyVersion": "1.0.0.22",
-    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
-    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.22/latest.zip",
+    "AssemblyVersion": "1.0.0.23",
+    "TestingAssemblyVersion": "1.0.0.23",
+    "DownloadLinkInstall": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.23/latest.zip",
+    "DownloadLinkTesting": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.23/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/jkleinne/ascended-dagobert/releases/download/1.0.0.23/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1781612517
+    "LastUpdate": 1783944698
   },
   {
     "Author": "jkleinne",
